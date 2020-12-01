@@ -1,0 +1,3 @@
+ 
+this direcoroy contains the platformio project for the dummy serial micro controller.
+It is configured for teensy LC but it's pretty basic so it should run on anything if you change the board type
